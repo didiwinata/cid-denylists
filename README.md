@@ -1,4 +1,4 @@
 # IPFS Denylist
 
 Update automatically across nodes.
-Where will trigger on main node and synchronization across nodes POP's.
+Trigger on main node via webhook then resync to across nodes POP's.
