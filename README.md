@@ -5,4 +5,4 @@ denylist.deny changes will trigger pull on main node then resync to across pop n
 
 Subdomain-style gateway [dget.top](https://dget.top).
 
-Nodes status also as path-style gateway [ipfs.dget.top](https://ipfs.dget.top).
+Nodes status [ipfs.dget.top](https://ipfs.dget.top) also as path-style gateway.
