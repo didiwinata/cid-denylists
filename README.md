@@ -1,6 +1,6 @@
-# IPFS Denylist
+# IPFS CID Denylist
 
-## Update automatically across nodes.
+## List of blocked CID hashes.
 denylist.deny changes will trigger pull on main node then resync to across pop nodes.
 
 Subdomain-style gateway [dget.top](https://dget.top).
