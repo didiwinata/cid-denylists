@@ -3,7 +3,7 @@
 ## List of blocked CID hashes.
 denylist.deny changes will trigger pull on main node then resync to across PoP nodes.
 
-Double-hash tools [ipfs://QmdCuvwW2ALwkL6xWyPPrnSqUvwZPftxM5vZA2jQihK3U8](https://ipfs.dget.top/ipfs/QmdCuvwW2ALwkL6xWyPPrnSqUvwZPftxM5vZA2jQihK3U8).
+Double-hash tools [ipfs://Qmdh6dnq4aYhXajx3YFiRTghcuuJ6zFNTL3ffSfEXZJqCD](https://ipfs.dget.top/ipfs/Qmdh6dnq4aYhXajx3YFiRTghcuuJ6zFNTL3ffSfEXZJqCD).
 
 Subdomain-style gateway [dget.top](https://dget.top).
 
