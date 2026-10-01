@@ -7,4 +7,6 @@ Double-hash tools [ipfs://QmU6e4yuMfyQKzNn9cuEHi4cJNaVRXCmS9MvYqmwYDNFUC](https:
 
 Subdomain-style gateway [dget.top](https://dget.top).
 
-Nodes status [ipfs.dget.top](https://ipfs.dget.top) also as path-style gateway.
+Service worker gateway [trustless.dget.top](https://trustless.dget.top).
+
+Nodes status [ipfs.dget.top](https://ipfs.dget.top).
