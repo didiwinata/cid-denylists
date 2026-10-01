@@ -9,4 +9,4 @@ Subdomain-style gateway [dget.top](https://dget.top).
 
 Service worker gateway [trustless.dget.top](https://trustless.dget.top).
 
-Nodes status [ipfs.dget.top](https://ipfs.dget.top).
+Nodes status [status.dget.top](https://status.dget.top).
