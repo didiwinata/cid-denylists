@@ -1,7 +1,7 @@
 # IPFS CID Denylist
 
 ## List of blocked CID hashes.
-denylist.deny changes will trigger pull on main node then resync to across PoP nodes.
+Blocklist use for block content involving phishing, illegal content, and specific requests, denylist.deny changes will trigger pull on main node then resync to across PoP nodes.
 
 Double-hash tools [ipfs://QmU6e4yuMfyQKzNn9cuEHi4cJNaVRXCmS9MvYqmwYDNFUC](https://ipfs.dget.top/ipfs/QmU6e4yuMfyQKzNn9cuEHi4cJNaVRXCmS9MvYqmwYDNFUC).
 
